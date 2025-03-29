@@ -12,6 +12,6 @@
 
 ## 统计信息
 
-[![](https://github-readme-stats.vercel.app/api?username=ciluu&count_private=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://stats.ciluu.com/api?username=ciluu&count_private=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ciluu)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://stats.ciluu.com/api/top-langs/?username=ciluu)](https://github.com/anuraghazra/github-readme-stats)
