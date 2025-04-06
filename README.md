@@ -10,7 +10,7 @@
 
 [MC百科](https://center.mcmod.cn/609430/)
 ## 一些徽章
-
+<p>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> 
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" /> 
@@ -31,11 +31,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-RTX4060 Laptop-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Intel-Core_i9--13900HX-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-
+</p>
 
 
 ## 统计信息
-
-[![](https://stats.ciluu.com/api?username=ciluu&count_private=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://stats.ciluu.com/api/top-langs/?username=ciluu)](https://github.com/anuraghazra/github-readme-stats)
